@@ -1,6 +1,6 @@
 from flask.ext.wtf import Form
 from wtforms import StringField, BooleanField
-from wtforms.validators import DataRequired
+from wtforms.validators import DataRequired, Email
 
 class LoginForm(Form):
     openid = StringField('openid', validators=[DataRequired()])
@@ -10,9 +10,9 @@ class SubmitForm(Form):
 	user_name = StringField('user', validators=[DataRequired])
 
 class RegistrationForm(Form):
-    name = fields.StringField("Nickname")
-    email = fields.StringField(validators=[InputRequired(), Email()])
-    password = fields.StringField(validators=[InputRequired()])
+    name = StringField("Nickname")
+    email = StringField(validators=[DataRequired(), Email()])
+    password = StringField(validators=[DataRequired()])
 
     def validate_email(form, field):
         user = User.query.filter(User.email == field.data).first()
