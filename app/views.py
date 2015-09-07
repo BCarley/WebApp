@@ -8,7 +8,7 @@ from app.models import User
 
 
 @app.route('/')
-@app.route('/index', methods=['POST', 'GET'])
+@app.route('/index', methods=('POST', 'GET'))
 def index():
     """
     Main landing page
