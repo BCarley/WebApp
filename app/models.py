@@ -62,3 +62,11 @@ class Post(db.Model):
 
     def __repr__(self):
         return '<Post %r>' % (self.body)
+
+class Nums(db.Model):
+    id = db.Column(db.Integer, primary_key=True)
+    int_field1 = db.Column(db.Integer)
+    dec_field1 = db.Column(db.Float)
+
+    def __repr__(self):
+        return '<Nums %s>' % self.id

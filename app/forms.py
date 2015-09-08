@@ -1,7 +1,7 @@
 from flask.ext.wtf import Form
 from sqlalchemy.orm.exc import MultipleResultsFound, NoResultFound
 from wtforms import fields
-from wtforms.validators import Email, InputRequired, ValidationError
+from wtforms.validators import Email, InputRequired, ValidationError, NumberRange
 
 from .models import User
 
@@ -29,9 +29,6 @@ class LoginForm(Form):
         # to calling code.
         form.user = user
 
-class SubmitForm(Form):
-	user_name = fields.StringField('user', validators=[InputRequired])
-
 
 class RegistrationForm(Form):
     name = fields.TextField("Nickname")
@@ -43,4 +40,16 @@ class RegistrationForm(Form):
         if user is not None:
             raise ValidationError("A user with that email already exists")
 
+class IntForm(Form):
+    int_field1 = fields.IntegerField(label="Integer1",
+                                     validators=[InputRequired(),
+                                                 NumberRange(max=20, message="Why so many?")],
+                                     description="Integer field 1",
+                                     default=5)
+
+    dec_field1 = fields.DecimalField(label="Decimal1",
+                                     validators=[InputRequired(),
+                                                 NumberRange(max=1000, message="Why so much?")],
+                                     description="Decimal field",
+                                     default=5)
 

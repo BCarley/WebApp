@@ -8,8 +8,8 @@ from flask.ext.login import login_required, login_user, logout_user
 from app import app
 
 from app import db
-from .forms import LoginForm, RegistrationForm
-from .models import User
+from .forms import LoginForm, RegistrationForm, IntForm
+from .models import User, Nums
 
 
 @app.route('/')
@@ -26,7 +26,7 @@ def login():
         # associated with the current session.
         login_user(form.user)
         flash("Logged in successfully.")
-        return redirect(request.args.get("next") or url_for("tracking.index"))
+        return redirect(request.args.get("next") or url_for("index"))
     return render_template('login.html', form=form)
 
 
@@ -51,3 +51,14 @@ def logout():
     logout_user()
     return redirect(url_for('index'))
 
+@app.route('/int_decs', methods=('POST', 'GET'))
+def ints_decs():
+
+    form = IntForm()
+    if form.validate_on_submit():
+        num = Nums()
+        form.populate_obj(num)
+        db.session.add(num)
+        db.session.commit()
+        return render_template('int_dec.html', form=form)
+    return render_template('int_dec.html', form=form)

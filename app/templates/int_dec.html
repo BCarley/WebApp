@@ -1,0 +1,15 @@
+<!-- extend base layout -->
+{% from "_formhelper.html" import render_field %}
+{% extends "base.html" %}
+
+{% block content %}
+<h1>Registration</h1>
+<form action="" method="post" name="register">
+	<dl>
+    {{ form.hidden_tag() }}
+    <p>{{ render_field(form.int_field1) }}</p>
+    <p>{{ render_field(form.dec_field1) }}</p>
+    <p><input type="submit" value="Register"></p>
+  </dl>
+</form>
+{% endblock %}
