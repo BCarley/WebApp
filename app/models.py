@@ -14,7 +14,7 @@ class User(UserMixin, db.Model):
     email = db.Column(db.String(120), unique=True)
     _password = db.Column(db.LargeBinary(120))
     _salt = db.Column(db.String(120))
-    sites = db.relationship('Site', backref='owner', lazy='dynamic')
+    posts = db.relationship('Post', backref='owner', lazy='dynamic')
 
     @hybrid_property
     def password(self):
@@ -50,14 +50,15 @@ class User(UserMixin, db.Model):
         return bytes(buff)
 
     def __repr__(self):
-        return "<User #{:d}>".format(self.id)
+        return "<User #{0}>".format(self.id)
 
 
 class Post(db.Model):
     id = db.Column(db.Integer, primary_key=True)
+    reps = db.Column(db.Integer)
     body = db.Column(db.String(140))
     timestamp = db.Column(db.DateTime)
-    user_id = db.Column(db.Integer, db.ForeignKey('user.id'))
+    user_id = db.Column(db.Integer, db.ForeignKey('users_user.id'))
 
     def __repr__(self):
         return '<Post %r>' % (self.body)

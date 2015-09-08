@@ -1,7 +1,7 @@
 # flask_tracking/auth.py
 from flask.ext.login import LoginManager
 
-from flask_tracking.models import User
+from models import User
 
 login_manager = LoginManager()
 

@@ -1,0 +1,1389 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"weight",
+				"weight_list"
+			],
+			[
+				"chec",
+				"check_balance"
+			],
+			[
+				"status",
+				"status_code"
+			],
+			[
+				"project",
+				"project_dict"
+			],
+			[
+				"old",
+				"old_subs"
+			],
+			[
+				"projec",
+				"project_dict"
+			],
+			[
+				"ge",
+				"get_subscriptions"
+			],
+			[
+				"s",
+				"subscriptions"
+			],
+			[
+				"Squirr",
+				"SquirroClient"
+			],
+			[
+				"get",
+				"getcontext"
+			],
+			[
+				"tra",
+				"transformed"
+			],
+			[
+				"fro",
+				"from_to"
+			],
+			[
+				"create",
+				"create_from_to"
+			],
+			[
+				"find",
+				"find_pattern"
+			],
+			[
+				"ma",
+				"max_idx"
+			],
+			[
+				"fin",
+				"find_pattern"
+			],
+			[
+				"permu",
+				"permutations"
+			],
+			[
+				"abun",
+				"abundant_nums"
+			],
+			[
+				"ab",
+				"abundant_nums"
+			],
+			[
+				"div",
+				"divisor_sum"
+			],
+			[
+				"pos",
+				"position_score"
+			],
+			[
+				"lette",
+				"letter_score"
+			],
+			[
+				"name",
+				"name_score"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"divi",
+				"divisor_sums"
+			],
+			[
+				"di",
+				"divisor_sum"
+			],
+			[
+				"ami",
+				"get_amicable_nums"
+			],
+			[
+				"am",
+				"amicable_nums"
+			],
+			[
+				"amic",
+				"amicable_sums"
+			],
+			[
+				"divisor",
+				"divisor_sums"
+			],
+			[
+				"day",
+				"day"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"num",
+				"number_builder"
+			],
+			[
+				"nu",
+				"number_builder"
+			],
+			[
+				"parse",
+				"parse_date"
+			],
+			[
+				"tran",
+				"transformation_type"
+			],
+			[
+				"body",
+				"body_formatting"
+			],
+			[
+				"write",
+				"write_type"
+			],
+			[
+				"sav",
+				"save_position"
+			],
+			[
+				"run",
+				"run_identifier"
+			],
+			[
+				"gene",
+				"generate_list"
+			],
+			[
+				"get_c",
+				"get_created_at"
+			],
+			[
+				"data",
+				"data_type"
+			],
+			[
+				"Email",
+				"Email"
+			],
+			[
+				"key",
+				"keywords"
+			],
+			[
+				"add",
+				"address_type"
+			],
+			[
+				"keywo",
+				"keywords"
+			],
+			[
+				"email",
+				"email_keywords"
+			],
+			[
+				"keyword",
+				"keyword_types"
+			],
+			[
+				"pars",
+				"parse_date"
+			],
+			[
+				"date",
+				"date_type"
+			],
+			[
+				"keyw",
+				"keyword_types"
+			],
+			[
+				"address",
+				"address_type"
+			],
+			[
+				"Rec",
+				"recipients"
+			],
+			[
+				"save",
+				"save_email_dict"
+			],
+			[
+				"att",
+				"attrib"
+			],
+			[
+				"uplo",
+				"upload_action"
+			],
+			[
+				"start",
+				"start_from"
+			],
+			[
+				"star",
+				"start_from"
+			],
+			[
+				"position",
+				"position_file"
+			],
+			[
+				"dat",
+				"data_file"
+			],
+			[
+				"dry",
+				"dry_run"
+			],
+			[
+				"upl",
+				"upload_action"
+			],
+			[
+				"writ",
+				"write_to_file"
+			],
+			[
+				"posit",
+				"position_file"
+			],
+			[
+				"pr",
+				"product_list"
+			],
+			[
+				"pro",
+				"product"
+			],
+			[
+				"prime",
+				"prime_sum"
+			],
+			[
+				"faco",
+				"factor_base"
+			],
+			[
+				"smooth",
+				"smooth_x"
+			],
+			[
+				"fac",
+				"factor_base"
+			],
+			[
+				"fact",
+				"factorise"
+			],
+			[
+				"sie",
+				"sieved_values"
+			],
+			[
+				"gener",
+				"generate_primes"
+			],
+			[
+				"factor",
+				"factor_base"
+			],
+			[
+				"sum",
+				"sum_of_squares"
+			],
+			[
+				"max",
+				"max_value"
+			],
+			[
+				"fa",
+				"factorised_values"
+			],
+			[
+				"first",
+				"first_primes"
+			],
+			[
+				"qua",
+				"quadratic_sieve"
+			],
+			[
+				"larges",
+				"largest_prime"
+			],
+			[
+				"larg",
+				"largest_prime"
+			],
+			[
+				"que",
+				"questions_dict"
+			],
+			[
+				"ques",
+				"question"
+			],
+			[
+				"squirro",
+				"squirro_items"
+			],
+			[
+				"quest",
+				"question_count"
+			],
+			[
+				"answe",
+				"answer_item"
+			],
+			[
+				"S",
+				"Squirro_uploader"
+			],
+			[
+				"answer",
+				"answer_body"
+			],
+			[
+				"packa",
+				"package_size"
+			],
+			[
+				"pa",
+				"params"
+			],
+			[
+				"stack",
+				"stack_response"
+			],
+			[
+				"sta",
+				"stack_response"
+			],
+			[
+				"st",
+				"stack_response"
+			],
+			[
+				"facet",
+				"facet_list"
+			],
+			[
+				"output",
+				"output_file"
+			],
+			[
+				"out",
+				"output_file"
+			],
+			[
+				"rand_ind",
+				"rand_index_list"
+			],
+			[
+				"rand",
+				"rand_index_list"
+			],
+			[
+				"attrib",
+				"attribute_list"
+			],
+			[
+				"con",
+				"con_switches"
+			],
+			[
+				"link",
+				"link_prefix"
+			],
+			[
+				"text",
+				"text"
+			],
+			[
+				"min",
+				"min_body_size"
+			],
+			[
+				"confi",
+				"config_switches"
+			],
+			[
+				"par",
+				"parser"
+			],
+			[
+				"up",
+				"updated_at"
+			],
+			[
+				"create_a",
+				"created_attributes"
+			],
+			[
+				"displa",
+				"displayed_name"
+			],
+			[
+				"sf",
+				"sf_case"
+			],
+			[
+				"squirr",
+				"squirro_dict"
+			],
+			[
+				"case_com",
+				"case_comments_dict"
+			],
+			[
+				"opt",
+				"opt_keys"
+			],
+			[
+				"user_",
+				"user_meta_dict"
+			],
+			[
+				"user",
+				"user_meta_dict"
+			],
+			[
+				"git",
+				"git_params"
+			],
+			[
+				"from",
+				"from_file"
+			],
+			[
+				"squi",
+				"squirro_items"
+			],
+			[
+				"hash",
+				"hash_body"
+			],
+			[
+				"smart",
+				"smartfilter_name"
+			],
+			[
+				"man",
+				"manual_features"
+			],
+			[
+				"dele",
+				"delete_all_smartfilters"
+			],
+			[
+				"get_fin",
+				"get_project_fingerprints"
+			],
+			[
+				"author",
+				"authors_dict"
+			],
+			[
+				"proj",
+				"project"
+			],
+			[
+				"creat",
+				"create_smartfilter"
+			],
+			[
+				"get_proj",
+				"get_project_by_title"
+			],
+			[
+				"pretty",
+				"pretty_print"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "requirements.txt",
+			"settings":
+			{
+				"buffer_size": 86,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "\"\"\"\nAll views are defined in this document\n\"\"\"\n# flask_tracking/users/views.py\nfrom flask import flash, redirect, render_template, request, url_for\nfrom flask.ext.login import login_required, login_user, logout_user\n\nfrom app import app\n\nfrom app import db\nfrom .forms import LoginForm, RegistrationForm\nfrom .models import User\n\n\n\n\n@app.route('/login/', methods=('GET', 'POST'))\ndef login():\n    form = LoginForm()\n    if form.validate_on_submit():\n        # Let Flask-Login know that this user\n        # has been authenticated and should be\n        # associated with the current session.\n        login_user(form.user)\n        flash(\"Logged in successfully.\")\n        return redirect(request.args.get(\"next\") or url_for(\"tracking.index\"))\n    return render_template('login.html', form=form)\n\n\n@app.route('/registration/', methods=('GET', 'POST'))\ndef register():\n    form = RegistrationForm()\n    if form.validate_on_submit():\n        user = User()\n        form.populate_obj(user)\n        db.session.add(user)\n        db.session.commit()\n        login_user(user)\n        return redirect(url_for('index'))\n    return render_template('registration.html', form=form)\n\n\n@app.route('/logout/')\n@login_required\ndef logout():\n    # Tell Flask-Login to destroy the\n    # session->User connection for this session.\n    logout_user()\n    return redirect(url_for('index'))\n\n    ",
+			"file": "app/views.py",
+			"file_size": 1410,
+			"file_write_time": 130861819948590495,
+			"settings":
+			{
+				"buffer_size": 1368,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/forms.py",
+			"settings":
+			{
+				"buffer_size": 1652,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/templates/registration.html",
+			"settings":
+			{
+				"buffer_size": 423,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/templates/login.html",
+			"settings":
+			{
+				"buffer_size": 313,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "config.py",
+			"settings":
+			{
+				"buffer_size": 248,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "db_create.py",
+			"settings":
+			{
+				"buffer_size": 516,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/templates/index.html",
+			"settings":
+			{
+				"buffer_size": 84,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/models.py",
+			"settings":
+			{
+				"buffer_size": 2334,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/auth.py",
+			"settings":
+			{
+				"buffer_size": 384,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "# flask_tracking/data.py\nfrom flask.ext.sqlalchemy import SQLAlchemy\n\ndb = SQLAlchemy()\n\n\ndef query_to_list(query, include_field_names=True):\n    \"\"\"Turns a SQLAlchemy query into a list of data values.\"\"\"\n    column_names = []\n    for i, obj in enumerate(query.all()):\n        if i == 0:\n            column_names = [c.name for c in obj.__table__.columns]\n            if include_field_names:\n                yield column_names\n        yield obj_to_list(obj, column_names)\n\n\ndef obj_to_list(sa_obj, field_order):\n    \"\"\"Takes a SQLAlchemy object - returns a list of all its data\"\"\"\n    return [getattr(sa_obj, field_name, None) for field_name in field_order]",
+			"file": "app/data.py",
+			"file_size": 0,
+			"file_write_time": 130861774050205500,
+			"settings":
+			{
+				"buffer_size": 656,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/__init__.py",
+			"settings":
+			{
+				"buffer_size": 238,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/templates/base.html",
+			"settings":
+			{
+				"buffer_size": 1582,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": true,
+		"show_open_files": false,
+		"show_tabs": true,
+		"side_bar_visible": false,
+		"status_bar_visible": true
+	},
+	"file_history":
+	[
+		"/C/WebApp/db_migrate.py",
+		"/C/Users/benjamin.carley/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/benjamin.carley/AppData/Roaming/Sublime Text 2/Packages/User/Python.sublime-settings",
+		"/C/_CustomerInsights/squirro-bipb/pipelet/onecalais.py",
+		"/C/_CustomerInsights/squirro-bipb/twitter script/bipb_squirro_demo_tweets_v2_31-07.py",
+		"/C/Users/benjamin.carley/Documents/Codility/frogJump.py",
+		"/C/Users/benjamin.carley/Documents/Codility/weights_ropes.py",
+		"/C/_CustomerInsights/squirro-bipb/deloitte/nuix_loader/nuix_loader.py",
+		"/C/Users/benjamin.carley/Documents/Euler/Codility.py",
+		"/C/Virtualenvs/squirro/cmd_scripts/open_calias_pipelet.bat",
+		"/C/Users/benjamin.carley/Downloads/pipelet config.txt",
+		"/C/_CustomerInsights/squirro-bipb/pipelet/smartfilter_features.py",
+		"/C/_CustomerInsights/squirro-bipb/pipelet/alchemy_api_sentiment.py",
+		"/C/Users/benjamin.carley/AppData/Roaming/Skype/My Skype Received Files/enrich_script.py",
+		"/C/Users/benjamin.carley/AppData/Roaming/Skype/My Skype Received Files/bipb_squirro_demo_tweets.py",
+		"/C/_CustomerInsights/squirro-bipb/twitter script/test.py",
+		"/C/_CustomerInsights/squirro-bipb/twitter script/main.py",
+		"/C/_CustomerInsights/squirro-bipb/twitter script/main.ini",
+		"/C/Users/benjamin.carley/Documents/Codility/4.py",
+		"/C/Users/benjamin.carley/Downloads/New folder/date_extract.py",
+		"/C/_CustomerInsights/squirro-bipb/wells_fargo/main.py",
+		"/C/Users/benjamin.carley/AppData/Roaming/Skype/My Skype Received Files/bipb_squirro_demo_tweets_v2_31-07.py",
+		"/C/_CustomerInsights/squirro-bipb/Service_Insights/get_rss_feeds.py",
+		"/C/_CustomerInsights/squirro-bipb/bank_of_england/copy_items.py",
+		"/C/_CustomerInsights/squirro-bipb/twitter script/twitter-search.py",
+		"/C/_CustomerInsights/squirro-bipb/Service_Insights/Salesforce_to_squirro.py",
+		"/C/Users/benjamin.carley/Documents/Euler/euler3.py",
+		"/C/Users/benjamin.carley/Documents/Euler/euler26.py",
+		"/C/tmp/alchemyapi/f5/3e/1c/f53e1c7130b1270d0ee20c50f5a157fa492280108418a23ce0cbdf151b1af75f.json",
+		"/C/_CustomerInsights/squirro-bipb/pipelet script.txt",
+		"/C/tmp/alchemyapi/9d/6a/20/9d6a206b94149d9972ab9b0ad4cc84c6099f086a7f127b18154a8bc4add7da6c.json",
+		"/C/Users/benjamin.carley/AppData/Roaming/Skype/My Skype Received Files/smartfilter_features.py",
+		"/C/Python27/squirro/Lib/distutils/__init__.py",
+		"/C/_CustomerInsights/squirro-bipb/deloitte/nuix_loader/loadfile-short.dat",
+		"/C/Users/benjamin.carley/AppData/Roaming/Skype/My Skype Received Files/chord.json",
+		"/C/_CustomerInsights/squirro-bipb/deloitte/nuix_loader/chord_chart.json",
+		"/C/_CustomerInsights/squirro-bipb/deloitte/nuix_loader/print.py",
+		"/C/Users/benjamin.carley/Documents/Euler/euler25.py",
+		"/C/_CustomerInsights/squirro-bipb/deloitte/nuix_loader/env.sh",
+		"/C/Users/benjamin.carley/Documents/Euler/euler24.py",
+		"/C/Users/benjamin.carley/Documents/Euler/euler23.py",
+		"/C/Users/benjamin.carley/Documents/Euler/euler21.py",
+		"/C/Users/benjamin.carley/Documents/Euler/euler19.py",
+		"/C/Users/benjamin.carley/Documents/Euler/euler18.py",
+		"/C/Users/benjamin.carley/Documents/Euler/euler17.py",
+		"/C/Users/benjamin.carley/Documents/Euler/euler22.py",
+		"/C/Users/benjamin.carley/Documents/Euler/euler15.py",
+		"/C/Users/benjamin.carley/Documents/Euler/euler16.py",
+		"/C/_CustomerInsights/squirro-bipb/deloitte/sample_set/sample_set/example.py",
+		"/C/_CustomerInsights/squirro-bipb/deloitte/nuix_loader/loadfile-short_output.json",
+		"/C/_CustomerInsights/squirro-bipb/deloitte/nuix_loader/get_attributes.ini",
+		"/C/_CustomerInsights/squirro-bipb/deloitte/nuix_loader/loadfile-shortemail_attribs.json",
+		"/C/_CustomerInsights/squirro-bipb/deloitte/nuix_loader/facets.json",
+		"/C/_CustomerInsights/squirro-bipb/deloitte/nuix_loader/nuix_loader.ini",
+		"/C/_CustomerInsights/squirro-bipb/deloitte/nuix_loader/get_attributes.py",
+		"/C/Users/benjamin.carley/Documents/Euler/euler14b.py",
+		"/C/Python27/squirro_client/exceptions.py",
+		"/C/Python27/squirro/Lib/warnings.py",
+		"/C/_CustomerInsights/squirro-bipb/Service_Insights/WebService_v_2.py",
+		"/C/_CustomerInsights/squirro-bipb/text_generator/main.py",
+		"/C/Users/benjamin.carley/AppData/Roaming/Sublime Text 2/Packages/Pylinter/Pylinter.sublime-settings",
+		"/C/_CustomerInsights/squirro-bipb/deloitte/facets_investigation/facet_loader.py",
+		"/C/_CustomerInsights/squirro-bipb/Service_Insights/git_user_extraction.py",
+		"/C/Users/benjamin.carley/AppData/Local/Temp/Temp1_sample_set.zip/sample_set/loadfile-short.dat",
+		"/C/Users/benjamin.carley/AppData/Roaming/Skype/My Skype Received Files/cut.py",
+		"/C/_CustomerInsights/squirro-bipb/text_generator/send_to_squirro.py",
+		"/C/Users/benjamin.carley/Documents/Euler/euler12.py",
+		"/C/Users/benjamin.carley/Documents/Euler/euler6.py",
+		"/C/Users/benjamin.carley/Documents/Euler/euler7.py",
+		"/C/Users/benjamin.carley/Documents/Euler/euler8.py",
+		"/C/Users/benjamin.carley/Documents/Euler/euler5.py",
+		"/C/Users/benjamin.carley/Documents/Euler/euler11.py",
+		"/C/_CustomerInsights/squirro-bipb/Service_Insights/stack_overflow_puller/main.ini",
+		"/C/_CustomerInsights/squirro-bipb/Service_Insights/stack_overflow_puller/main.py",
+		"/C/_CustomerInsights/squirro-bipb/Service_Insights/Salesforce_to_squirro.ini",
+		"/C/_CustomerInsights/squirro-bipb/Service_Insights/git_user_dict_creator/main.py",
+		"/C/_CustomerInsights/squirro-bipb/text_generator/name_generator/main.py",
+		"/C/_CustomerInsights/squirro-bipb/Service_Insights/WebService_v_2.ini",
+		"/C/_CustomerInsights/squirro-bipb/Service_Insights/static/js/tabs.js",
+		"/C/_CustomerInsights/squirro-bipb/question and answer/pdf export.py",
+		"/C/_CustomerInsights/squirro-bipb/Service_Insights/git_user_extraction.ini",
+		"/C/_CustomerInsights/squirro-bipb/text_generator/main.ini",
+		"/C/_CustomerInsights/squirro-bipb/text_generator/import_project_items.py",
+		"/C/_CustomerInsights/squirro-bipb/text_generator/export_items.py",
+		"/C/_CustomerInsights/squirro-bipb/text_generator/output_file.txt",
+		"/C/_CustomerInsights/squirro-bipb/text_generator/acl_file.txt",
+		"/C/_CustomerInsights/squirro-bipb/text_generator/facet_file.txt",
+		"/C/_CustomerInsights/squirro-bipb/text_generator/name_generator/names.json",
+		"/C/Users/benjamin.carley/AppData/Roaming/Skype/My Skype Received Files/import_project_items.py",
+		"/C/Users/benjamin.carley/AppData/Roaming/Skype/My Skype Received Files/send_to_squirro(1).py",
+		"/C/_CustomerInsights/squirro-bipb/text_generator/1",
+		"/C/_CustomerInsights/squirro-bipb/Service_Insights/git_user_dict_creator/main.ini",
+		"/C/_Squirro/Script Template/main.py",
+		"/C/_CustomerInsights/squirro-bipb/Service_Insights/static/js/main.js",
+		"/C/_CustomerInsights/squirro-bipb/Service_Insights/templates/index.html",
+		"/C/_CustomerInsights/squirro-bipb/Service_Insights/salesforce_uploader.py",
+		"/C/_CustomerInsights/squirro-bipb/Service_Insights/templates/error.html",
+		"/C/_CustomerInsights/squirro-bipb/Service_Insights/static/css/main.css",
+		"/C/_CustomerInsights/squirro-bipb/Service_Insights/salesforce_uploader.ini",
+		"/C/_CustomerInsights/squirro-bipb/customer_insights/squirro/integration/customer_insights/customers/investec/main.py",
+		"/C/Users/benjamin.carley/AppData/Roaming/Sublime Text 2/Packages/User/Pylinter.sublime-settings",
+		"/C/_CustomerInsights/squirro-bipb/Service_Insights/salesforce_requests.py",
+		"/C/_CustomerInsights/squirro-bipb/Service_Insights/csv_export/main.ini",
+		"/C/_Investec/investec/importers/iisearches/main_import/main.py",
+		"/C/_CustomerInsights/squirro-bipb/Service_Insights/WebService.ini",
+		"/C/_Investec/investec/importers/iisearches/feed_import/main.py",
+		"/C/_CustomerInsights/squirro-bipb/Service_Insights/sfdc_upload.py",
+		"/C/_git/iiSearches/iiSearches_content.ini",
+		"/C/Users/benjamin.carley/AppData/Local/Temp/Temp1_sfdc_bugzilla.zip/sfdc_bugzilla/run.py",
+		"/C/_CustomerInsights/squirro-bipb/Service_Insights/WebService.py",
+		"/C/_CustomerInsights/squirro-bipb/Service_Insights/csv_export/main.py",
+		"/C/_CustomerInsights/squirro-bipb/Service_Insights/case_smart_filter_creator.py",
+		"/C/_CustomerInsights/squirro-bipb/Service_Insights/main.ini",
+		"/C/_CustomerInsights/squirro-bipb/Service_Insights/case_sfc.py",
+		"/C/_CustomerInsights/squirro-bipb/Service_Insights/main.py",
+		"/C/Users/benjamin.carley/AppData/Local/Temp/Temp1_sfdc_bugzilla.zip/sfdc_bugzilla/send_to_squirro.py",
+		"/C/_CustomerInsights/squirro-bipb/Service_Insights/sfdc_upload.ini",
+		"/C/Users/benjamin.carley/AppData/Roaming/Skype/My Skype Received Files/send_to_squirro.py",
+		"/C/_Investec/investec/importers/iisearches/feed_import/main.ini",
+		"/C/_Investec/investec/importers/iisearches/main_import/main.ini",
+		"/C/_CustomerInsights/squirro-bipb/Service_Insights/SalesForce_uploader/sales_force_uploader.py",
+		"/C/_Investec/investec/importers/iisearches/main_import/ftp_connection.py",
+		"/C/_Investec/investec/importers/iisearches/news_import/test.py",
+		"/C/_Investec/investec/importers/public_sources/main.py",
+		"/C/_Squirro/feed_uploader/main.ini",
+		"/C/Python27/iiSearches_upload.py",
+		"/C/_Squirro/feed_uploader/main.py",
+		"/C/_git/iiSearches/iiSearches_content.py"
+	],
+	"find":
+	{
+		"height": 48.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Column",
+			"date",
+			"get_req",
+			"CALAIS",
+			"write_t",
+			"json",
+			"}",
+			"get_client",
+			"client",
+			"keyword",
+			"get_crea",
+			"get_ke",
+			"upload",
+			"parse_date",
+			").",
+			"2013",
+			"26/27/2013",
+			"29/27/2013",
+			"2013",
+			"created",
+			"save_p",
+			"excel",
+			"get_body",
+			"get_bod",
+			"int",
+			"get_client",
+			"get_clent",
+			"client#",
+			"client",
+			"domain",
+			"from",
+			"meyers",
+			"Cc",
+			"slinger",
+			"client",
+			"parse_d",
+			"parse",
+			"config",
+			"error",
+			"upl",
+			"break",
+			"create",
+			"client",
+			"args",
+			"\n        ",
+			"TOKEN",
+			"USER_SOURCE",
+			"get smar",
+			"upload_case_comments",
+			"upload_case_comm",
+			"client",
+			"pretty",
+			"config.",
+			"squirro",
+			"IndexError",
+			"index",
+			"print",
+			"json",
+			"exists",
+			"open",
+			"json",
+			"cache",
+			"rand",
+			"len",
+			"date",
+			"config_switches",
+			"=\"",
+			"split",
+			"query",
+			"dele",
+			"Case.c",
+			"user",
+			"upload",
+			"pretty",
+			"static",
+			"script",
+			"path",
+			"false",
+			"args.",
+			"search",
+			".stati",
+			"bug",
+			"bugs",
+			"dict",
+			"create_",
+			"html",
+			"pretty",
+			"upload_case",
+			"main",
+			"create_case",
+			"create_case_smart",
+			"sf_auth(",
+			"create_body",
+			"mark",
+			"markdown",
+			"create",
+			"create_",
+			"sort",
+			"request",
+			"args",
+			"create_body",
+			"create",
+			"return",
+			"print",
+			"pretty_print",
+			"squirro_upl",
+			"uploa",
+			"upload",
+			"delete",
+			"norm",
+			"normali",
+			"markdo",
+			"git_re",
+			"sourc",
+			"sm",
+			"bod",
+			"url",
+			"upload",
+			"upload_case_comments",
+			"skip_cases",
+			"get",
+			"casecomment",
+			"casecom",
+			"casecomment",
+			"casecomments",
+			"get_smart",
+			"get_project_",
+			"with"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			" :",
+			"squirro",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "requirements.txt",
+					"settings":
+					{
+						"buffer_size": 86,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/views.py",
+					"settings":
+					{
+						"buffer_size": 1368,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								449,
+								449
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 38.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/forms.py",
+					"settings":
+					{
+						"buffer_size": 1652,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								18,
+								18
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/templates/registration.html",
+					"settings":
+					{
+						"buffer_size": 423,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								342,
+								342
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/templates/login.html",
+					"settings":
+					{
+						"buffer_size": 313,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								236,
+								236
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "config.py",
+					"settings":
+					{
+						"buffer_size": 248,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								248,
+								248
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "db_create.py",
+					"settings":
+					{
+						"buffer_size": 516,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								212,
+								212
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app/templates/index.html",
+					"settings":
+					{
+						"buffer_size": 84,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								84,
+								84
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "app/models.py",
+					"settings":
+					{
+						"buffer_size": 2334,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2099,
+								2095
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "app/auth.py",
+					"settings":
+					{
+						"buffer_size": 384,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								384,
+								384
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "app/data.py",
+					"settings":
+					{
+						"buffer_size": 656,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6,
+								6
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "app/__init__.py",
+					"settings":
+					{
+						"buffer_size": 238,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								20,
+								20
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "app/templates/base.html",
+					"settings":
+					{
+						"buffer_size": 1582,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								947,
+								947
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 33.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 206.0,
+	"status_bar_visible": true
+}

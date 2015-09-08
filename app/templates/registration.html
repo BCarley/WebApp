@@ -1,13 +1,16 @@
 <!-- extend base layout -->
+{% from "_formhelper.html" import render_field %}
 {% extends "base.html" %}
 
 {% block content %}
 <h1>Registration</h1>
-<form action="" method="post" name="login">
+<form action="" method="post" name="register">
+	<dl>
     {{ form.hidden_tag() }}
-    <p>{{ form.name }} Username</p>
-    <p>{{ form.email }} Email</p>
-    <p>{{ form.password }} Password</p>
-    <p><input type="submit" value="Sign In"></p>
+    <p>{{ render_field(form.name) }}</p>
+    <p>{{ render_field(form.email) }}</p>
+    <p>{{ render_field(form.password) }}</p>
+    <p><input type="submit" value="Register"></p>
+  </dl>
 </form>
 {% endblock %}
