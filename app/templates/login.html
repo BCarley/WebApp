@@ -3,10 +3,18 @@
 
 {% block content %}
 <h1>Sign In</h1>
+<div>
 <form action="" method="post" name="login">
     {{ form.hidden_tag() }}
     <p>{{ form.email }} Username</p>
     <p>{{ form.password }} Password</p>
     <p><input type="submit" value="Sign In"></p>
 </form>
+</div>
+<div>
+    <p>
+   <a href= "{{url_for('registration')}}">Register</a>
+    </p>
+</div>
+
 {% endblock %}

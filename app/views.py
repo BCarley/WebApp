@@ -2,7 +2,7 @@
 All views are defined in this document
 """
 # flask_tracking/users/views.py
-from flask import flash, redirect, render_template, request, url_for
+from flask import flash, redirect, render_template, request, url_for, abort
 from flask.ext.login import login_required, login_user, logout_user
 
 from app import app
@@ -31,7 +31,7 @@ def login():
 
 
 @app.route('/registration/', methods=('GET', 'POST'))
-def register():
+def registration():
     form = RegistrationForm()
     if form.validate_on_submit():
         user = User()
@@ -39,7 +39,8 @@ def register():
         db.session.add(user)
         db.session.commit()
         login_user(user)
-        return redirect(url_for('index'))
+        print request.args.get("next")
+        return redirect(request.args.get("next") or url_for('index'))
     return render_template('registration.html', form=form)
 
 
@@ -49,7 +50,14 @@ def logout():
     # Tell Flask-Login to destroy the
     # session->User connection for this session.
     logout_user()
+    flash("Logged out successfully")
     return redirect(url_for('index'))
+
+
+@app.route('/testpage/')
+@login_required
+def test():
+    return "Hi There"
 
 @app.route('/int_decs', methods=('POST', 'GET'))
 def ints_decs():

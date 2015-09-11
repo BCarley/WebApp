@@ -5,7 +5,7 @@ from models import User
 
 login_manager = LoginManager()
 
-login_manager.login_view = "users.login"
+login_manager.login_view = "login"
 # We have not created the users.login view yet
 # but that is the name that we will use for our
 # login view, so we will set it now.
